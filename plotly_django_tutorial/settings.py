@@ -158,3 +158,5 @@ STATIC_ROOT = 'static'
 STATICFILES_DIRS = [
     os.path.join(BASE_DIR, 'plotly_django_tutorial/static')
 ]
+
+X_FRAME_OPTIONS = 'SAMEORIGIN'
