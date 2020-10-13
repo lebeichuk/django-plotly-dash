@@ -43,3 +43,4 @@ Twisted==19.7.0
 txaio==18.8.1
 Werkzeug==0.16.0
 
+stripe>=2.48.0,<3.0
